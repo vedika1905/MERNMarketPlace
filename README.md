@@ -1,6 +1,5 @@
 
 # MERN Market Place
-
 The MERN (MongoDB, Express, React, Node.js) Marketplace project is an e-commerce platform that allows users to buy and sell products or services online. The project is built using modern web development technologies and frameworks, offering a secure, scalable, and user-friendly platform for buying and selling goods.
 
 ### Steps to run this project
