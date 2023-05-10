@@ -10,7 +10,7 @@ git init
 ```
 #### 3. Clone this repository.
 ```
-git pull https://github.com/vedika1905/ProjectWork-II.git
+git pull https://github.com/vedika1905/MERNMarketPlace.git
 ```
 #### 4. Run npm install in terminal.
 ```
